@@ -1,0 +1,8 @@
+{
+  "name": "str",
+  "version": "1.0.0",
+  "description": "Simple modular string utils",
+  "license": "MIT",
+  "main": "./str.js",
+  "types": "./str.d.ts"
+}

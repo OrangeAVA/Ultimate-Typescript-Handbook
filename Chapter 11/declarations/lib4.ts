@@ -1,0 +1,3 @@
+const mrExaminer: Examiner = {
+  name: '',
+}

@@ -1,0 +1,11 @@
+$body-color: slateblue;
+
+body {
+  color: $body-color;
+  font-family: sans-serif;
+
+  img {
+    margin-top: -3rem;
+    margin-bottom: -4rem;
+  }
+}
