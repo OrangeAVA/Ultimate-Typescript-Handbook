@@ -1,2 +1,2 @@
-# A-complete-guide-to-TypeScript
-A complete guide to TypeScript, published by Orange AVA™
+# Ultimate Typescript Handbook
+Ultimate Typescript Handbook, published by Orange AVA™
